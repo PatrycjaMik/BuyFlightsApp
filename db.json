@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "id": 0,
+        "name": "Cracow"
+      },
+      {
+        "id": 1,
+        "name": "Warsaw"
+      },
+      {
+        "id": 2,
+        "name": "Wroclaw"
+      },
+      {
+        "id": 3,
+        "name": "Gdansk"
+      }
+    ]
+  }
