@@ -17,3 +17,11 @@ myIcon.src = Icon;
 
 document.querySelector("div").append(myIcon);
 document.querySelector("div").classList.add("change");
+
+fetch(
+  "https://raw.githubusercontent.com/PatrycjaMik/BuyFlightsApp/main/db.json"
+)
+  .then((resp) => resp.json()) // Transform the data into json
+  .then(function (data) {
+    console.log(data);
+  });

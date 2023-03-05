@@ -2,19 +2,23 @@
     "data": [
       {
         "id": 0,
-        "name": "Cracow"
+        "name": "Cracow",
+        "code": "KRK"
       },
       {
         "id": 1,
-        "name": "Warsaw"
+        "name": "Warsaw",
+        "code": "WAW"
       },
       {
         "id": 2,
-        "name": "Wroclaw"
+        "name": "Wroclaw",
+        "code": "WRO"
       },
       {
         "id": 3,
-        "name": "Gdansk"
+        "name": "Gdansk",
+        "code": "GDA"
       }
     ]
   }
